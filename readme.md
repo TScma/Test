@@ -4,3 +4,5 @@
 improve
 ```
 测试文件，学习GitHub和git
+$a=x+y$
+$ a=x+y $
