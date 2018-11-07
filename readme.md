@@ -46,3 +46,7 @@ git rm HelloGitHub.py
 ```
 > 跳到3,4,5
 ## tables
+name|age|sex
+----|---|---
+tony| 20|male
+lucy| 18|female
